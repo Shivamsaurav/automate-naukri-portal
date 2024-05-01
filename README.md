@@ -1,3 +1,5 @@
+Daily Naukri Resume update
+
 Selenium and Java powered automation script
 This script is used to automate resume update on the job portal "Naukri". Most recruiters may filter users having the most recent updates on their profile.
 
