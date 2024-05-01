@@ -14,14 +14,14 @@ public class NaukriSelenium {
 	public static void main(String[] args) {
 		
 		
-		/*// Get the current time
-        LocalTime currentTime = LocalTime.now();
+		// Get the current time
+        	LocalTime currentTime = LocalTime.now();
 		//System.out.println(currentTime);
 		
 		if(currentTime.getHour() == 9 && currentTime.getMinute() >= 00 ) {
 			updateResume();
-		}*/
-		updateResume();
+		}
+		
 	}
 	
 	public static void updateResume() {
